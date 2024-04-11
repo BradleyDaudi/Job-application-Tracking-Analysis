@@ -1,3 +1,21 @@
+   _   _       _     _     _____                    _____           _       
+  | | | |     (_)   | |   |  __ \                  / ____|         | |      
+  | | | |_ __  _  __| |   | |__) |___  ___ ______ | |     ___   ___| | _____
+  | | | | '_ \| |/ _` |   |  _  // _ \/ __/  _ \| |    / _ \ / __| |/ / __|
+  | |_| | | | | | (_| |   | | \ \  __/ (_| (_) | |___| (_) | (__|   <\__ \
+   \___/|_| |_|_|\__,_|   |_|  \_\___|\___\____/ \_____\___/ \___|_|\_\___/
+                                                                             
+                          _     _     _       _     _       _     _       
+                         | |   (_)   | |     | |   | |     | |   | |      
+  _ __  _ __ ___   ___  | |_   _  __| | ___ | |__ | |_ ___| | __| | ___  
+ | '_ \| '_ ` _ \ / _ \ | __| | |/ _` |/ _ \| '_ \| __/ __| |/ _` |/ _ \ 
+ | |_) | | | | | |  __/ | |_  | | (_| | (_) | |_) | || (__| | (_| |  __/ 
+ | .__/|_| |_| |_|\___|  \__| |_|\__,_|\___/|_.__/ \__\___|_|\__,_|\___| 
+ | |                                                                      
+ |_|                                                                      
+
+
+
 # Job Application Tracking Analysis - Q1 2024
  ## Overview:
 This repository contains an analysis of my job applications for the first quarter of 2024. The analysis aims to provide insights into the effectiveness of my job search strategies, identify patterns in the types of positions applied for, and evaluate the success rate of applications.
