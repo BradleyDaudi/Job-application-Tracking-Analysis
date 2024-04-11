@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/maujobs-handshake-hired-youre-nL2zibS5D4iGhDOt9Q.gif" width="300"/>
+</div>
+
+
+
+
 # Job Application Tracking Analysis - Q1 2024
  ## Overview:
 This repository contains an analysis of my job applications for the first quarter of 2024. The analysis aims to provide insights into the effectiveness of my job search strategies, identify patterns in the types of positions applied for, and evaluate the success rate of applications.
