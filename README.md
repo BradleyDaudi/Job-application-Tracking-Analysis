@@ -25,7 +25,7 @@ Company Insights: Identification of companies with which I've had the most succe
 # Results:
 The analysis revealed several insights, including:
 
-## Peak application periods and potential adjustments to timing for future applications.
+Peak application periods and potential adjustments to timing for future applications.
 
 The effectiveness of different application channels, highlighting areas for optimization.
 Overall success rate and areas for improvement in the application process.
