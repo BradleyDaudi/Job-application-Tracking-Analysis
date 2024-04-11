@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/maujobs-handshake-hired-youre-nL2zibS5D4iGhDOt9Q" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRlbWNpbmkwcDNsZmN5a2w3czl0NW95bnBtcTNsZHF1eWZwMHczaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nL2zibS5D4iGhDOt9Q/giphy.gif" width="300"/>
 </div>
 
 
